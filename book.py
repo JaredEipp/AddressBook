@@ -20,8 +20,8 @@ class Person:
 	def show(self):
 		print("Name == " + self.name)
 		print("Address == " + self.address)
-		print("Emai == " + self.email)
-		print("Phone Number == " + self.phone)
+		#print("Emai == " + self.email)
+		#print("Phone Number == " + self.phone)
 
 
 
